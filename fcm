@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T21:26:45.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Dq0h1H6XmIbHbiUWAdK-" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T21:32:01.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SdRlN83HSlP-Klo6Tf4n" version="20.0.1" type="github">
   <diagram id="rKpIvgjg04jw1EgTiuyg" name="Page-1">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,33 @@
         </mxCell>
         <mxCell id="s-D7BsgyM6_qA6AhxpHv-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="604.7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-18" value="Ceragem AS User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="195" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-22" value="Firebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-23" value="App Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="195" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-24" value="App Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-25" value="EON UMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224.3" y="680" width="91.41" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-27" value="Firebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455.2" y="670" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-28" value="Ceragem AS User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="190" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-29" value="Ceragem AS User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="488.5" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-30" value="Ceragem AS User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="670" width="95" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
