@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T21:13:36.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="OeBe6S1qa2JH85oUPCS1" type="github"><diagram id="rKpIvgjg04jw1EgTiuyg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T21:26:45.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Dq0h1H6XmIbHbiUWAdK-" version="20.0.1" type="github">
+  <diagram id="rKpIvgjg04jw1EgTiuyg" name="Page-1">
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google" vertex="1" parent="1">
+          <mxGeometry x="510" y="105.3" width="65.2" height="69.4" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google" vertex="1" parent="1">
+          <mxGeometry x="460" y="585" width="65.2" height="69.4" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-7" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-8" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-9" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-10" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="394.7" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="419.7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="237.17000000000002" y="510" width="62.83" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s-D7BsgyM6_qA6AhxpHv-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="604.7" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
